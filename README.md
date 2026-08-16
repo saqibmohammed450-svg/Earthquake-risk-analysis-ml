@@ -109,9 +109,3 @@ High accuracy alone was misleading due to class imbalance, so recall was improve
 * Use larger historical datasets
 * Apply deep learning models (e.g., LSTM)
 * Build a real-time earthquake monitoring system
-
----
-
-## 👨‍💻 Author
-
-Mohammed Saqib
